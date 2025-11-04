@@ -49,7 +49,7 @@ st.sidebar.markdown(
     """
     <div class="sidebar-title">👨‍💻 Developer Info</div>
     <div class="contact-info">
-        <b>Name:</b> <span style="color:#E74C3C;">Abhishek Shelke</span><br>
+        <b>Name:</b> <span style="color:#0000FF;">Abhishek Shelke</span><br>
         <b>Email:</b> <a href="mailto:abhishekshelke3535@gmail.com">abhishekshelke3535@gmail.com</a><br>
         <b>Phone:</b> <a href="tel:+918530997939">+91 85309 97939</a><br>
         <b>GitHub:</b> <a href="https://github.com/Redskull2525" target="_blank">github.com/Redskull2525</a><br>
@@ -60,7 +60,7 @@ st.sidebar.markdown(
 )
 
 st.sidebar.markdown("---")
-st.sidebar.markdown("💡 *Developed with ❤️ using Streamlit and Linear Regression Model*")
+st.sidebar.markdown("💡 *Developed with using Streamlit and Linear Regression Model*")
 
 # -------------------- Main Page --------------------
 st.title("💰 Insurance Cost Prediction App")
